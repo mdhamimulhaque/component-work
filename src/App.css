@@ -1,0 +1,9 @@
+.use-props{
+  background-color: darkseagreen;
+  padding: 20px;
+}
+
+.use-context-api{
+  background-color:lightcoral;
+  padding: 20px;
+}
